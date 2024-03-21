@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "25684FD5-4386-4DB4-BE62-56B198CA34B0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9B86B855-791B-4743-BD5E-CC83837CF92D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Blackjack/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "main()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "9B86B855-791B-4743-BD5E-CC83837CF92D - 6fed9a2f189a91f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Blackjack"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pranav/Desktop/CS32/Blackjack%20SKELETON/Blackjack/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "9B86B855-791B-4743-BD5E-CC83837CF92D - 6fed9a2f189a9190"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Blackjack"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pranav/Desktop/CS32/Blackjack%20SKELETON/Blackjack/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "9B86B855-791B-4743-BD5E-CC83837CF92D - 6fed9a2f189a9190"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Blackjack"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pranav/Desktop/CS32/Blackjack%20SKELETON/Blackjack/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "9B86B855-791B-4743-BD5E-CC83837CF92D - 6fed9a2f189a9190"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Blackjack"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pranav/Desktop/CS32/Blackjack%20SKELETON/Blackjack/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "9B86B855-791B-4743-BD5E-CC83837CF92D - 6fed9a2f189a9190"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Blackjack"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pranav/Desktop/CS32/Blackjack%20SKELETON/Blackjack/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
